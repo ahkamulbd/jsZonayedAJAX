@@ -1,6 +1,21 @@
+#section-container {
+    text-align: center;
+}
+
 h1 {
     text-align: center;
     font-size: 36px;
     font-weight: 700;
     color: chocolate;
+}
+
+#post-btn {
+    background-color: coral;
+    padding: 10px 20px;
+    font-size: 24px;
+    font-weight: 700;
+    color: rgb(239, 246, 244);
+    border: none;
+    border-radius: 10px;
+    margin: 20px 0;
 }
